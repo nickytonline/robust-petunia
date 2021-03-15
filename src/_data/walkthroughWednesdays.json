@@ -1,0 +1,236 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "-L3j_wVXgzGDsut9DeWAX_BGzlY",
+  "nextPageToken": "CAUQAA",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6atTb641sUimpnsEjx_ZHO8H16g",
+      "id": "UEw4QmIyV0xYaFVhRENISzVIcnhEWFpXbXVUQVJLRGlWMy41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2021-03-11T15:14:50Z",
+        "channelId": "UCQjqsJDbo-sLRMKPVOMrvQQ",
+        "title": "Walkthrough Wednesday with Jhey",
+        "description": "Nick Taylor and Christina Gorton were joined by Jhey on Wednesday March 10th on thePracticalDev Twitch stream. We talked about Web animations with CSS, GreenSock(GSAP), and more!\n\nWhere to learn more about Jhey:\nhttps://jhey.dev/links",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AqTP9SX4nAU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AqTP9SX4nAU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AqTP9SX4nAU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AqTP9SX4nAU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AqTP9SX4nAU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Practical Dev",
+        "playlistId": "PL8Bb2WLXhUaDCHK5HrxDXZWmuTARKDiV3",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AqTP9SX4nAU"
+        },
+        "videoOwnerChannelTitle": "The Practical Dev",
+        "videoOwnerChannelId": "UCQjqsJDbo-sLRMKPVOMrvQQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0QH7gTPWDj6cxd7BO7MMToViKCY",
+      "id": "UEw4QmIyV0xYaFVhRENISzVIcnhEWFpXbXVUQVJLRGlWMy4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2021-02-24T20:14:58Z",
+        "channelId": "UCQjqsJDbo-sLRMKPVOMrvQQ",
+        "title": "Walkthrough Wednesday with Todd Libby🦞",
+        "description": "Nick Taylor and Christina Gorton were joined by Todd Libby on Wednesday Feb. 24th on thePracticalDev Twitch stream. We talked about a11y, web standards, lobster rolls 🦞 and more.\n\n\nPlace to follow Todd:\nhttps://toddl.dev/ - Personal Site\nhttps://twitter.com/toddlibby - Twitter\nhttps://twitch.tv/toddlibby - Twitch Learning in Public code and design\nhttps://anchor.fm/frontendnerdery - Front End Nerdery Podcast: Front End Dev and other topics\nhttps://www.youtube.com/channel/UCng3HUrp-Dzu92iA_Zbhh3Q - Front End Nerdery Podcast channel\nhttps://buttondown.email/colabottles - Newsletter about what's up and what's going on!\nhttps://linkedin.com/in/todd-libby - LinkedIn",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/idyqPHD9uGA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/idyqPHD9uGA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/idyqPHD9uGA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Practical Dev",
+        "playlistId": "PL8Bb2WLXhUaDCHK5HrxDXZWmuTARKDiV3",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "idyqPHD9uGA"
+        },
+        "videoOwnerChannelTitle": "The Practical Dev",
+        "videoOwnerChannelId": "UCQjqsJDbo-sLRMKPVOMrvQQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LxZzvKvasucLf58aPgfdWh0y4v0",
+      "id": "UEw4QmIyV0xYaFVhRENISzVIcnhEWFpXbXVUQVJLRGlWMy45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2021-02-16T14:55:43Z",
+        "channelId": "UCQjqsJDbo-sLRMKPVOMrvQQ",
+        "title": "Walkthrough Wednesday with Katie Davis and Suzanne Aitchison",
+        "description": "Nick Taylor and Christina Gorton introduced and talked to their new coworkers Katie Davis and Suzanne Aitchison. They discuss a11y, JavaScript, developer tooling, working at Forem and more.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f0EBITxbvoU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f0EBITxbvoU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f0EBITxbvoU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/f0EBITxbvoU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/f0EBITxbvoU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Practical Dev",
+        "playlistId": "PL8Bb2WLXhUaDCHK5HrxDXZWmuTARKDiV3",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "f0EBITxbvoU"
+        },
+        "videoOwnerChannelTitle": "The Practical Dev",
+        "videoOwnerChannelId": "UCQjqsJDbo-sLRMKPVOMrvQQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Hj7BBi0wUTOwCdJVnGcdxxkoMEE",
+      "id": "UEw4QmIyV0xYaFVhRENISzVIcnhEWFpXbXVUQVJLRGlWMy5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2021-01-27T20:37:39Z",
+        "channelId": "UCQjqsJDbo-sLRMKPVOMrvQQ",
+        "title": "Walkthrough Wednesday with Ben Halpern",
+        "description": "Nick Taylor and Christina Gorton were joined by Forem co-CEO Ben Halpern on Wednesday Jan. 27th. They talked about DEV's beginnings, the move to Forem, open source, upcoming features, Forem Cloud and more.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-kRv_MrIATI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-kRv_MrIATI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-kRv_MrIATI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-kRv_MrIATI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-kRv_MrIATI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Practical Dev",
+        "playlistId": "PL8Bb2WLXhUaDCHK5HrxDXZWmuTARKDiV3",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-kRv_MrIATI"
+        },
+        "videoOwnerChannelTitle": "The Practical Dev",
+        "videoOwnerChannelId": "UCQjqsJDbo-sLRMKPVOMrvQQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "r7fa__7GiXqL22Obw7uRNkkcI3E",
+      "id": "UEw4QmIyV0xYaFVhRENISzVIcnhEWFpXbXVUQVJLRGlWMy40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2021-01-13T20:24:13Z",
+        "channelId": "UCQjqsJDbo-sLRMKPVOMrvQQ",
+        "title": "Walkthrough Wednesday with Gant Laborde",
+        "description": "Gant Laborde, CIO at Infinite Red, joined Nick Taylor and Christina Gorton to talk about AI and share TensorFlow demos.\n\nMore places to find Gant and his work:\nTwitter: https://twitter.com/GantLaborde\nAI Newsletter: https://ai-fyi.com/\nPersonal Website: https://gantlaborde.com/\nConsultancy: https://infinite.red/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wS5N5R61Z5w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wS5N5R61Z5w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wS5N5R61Z5w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wS5N5R61Z5w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wS5N5R61Z5w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Practical Dev",
+        "playlistId": "PL8Bb2WLXhUaDCHK5HrxDXZWmuTARKDiV3",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wS5N5R61Z5w"
+        },
+        "videoOwnerChannelTitle": "The Practical Dev",
+        "videoOwnerChannelId": "UCQjqsJDbo-sLRMKPVOMrvQQ"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 14,
+    "resultsPerPage": 5
+  }
+}

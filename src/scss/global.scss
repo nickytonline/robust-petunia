@@ -65,6 +65,24 @@ img {
   }
 }
 
+.card {
+  border: 1px solid #c9c9c9;
+  border-radius: 7px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.15);
+  overflow: hidden;
+}
+
+.card__content {
+  padding: 20px;
+}
+
+.card__img {
+  background-size: cover;
+  background-position: center;
+  // 16:9 ratio
+  padding-bottom: 62.5%;
+}
+
 /**
  * PROJECT IMPORTS
  */

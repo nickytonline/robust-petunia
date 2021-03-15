@@ -1,5 +1,4 @@
 {% extends 'layouts/base.njk' %}
-
 {# Intro content #}
 {% set introHeading = title %}
 {% set introSummary %}
@@ -12,7 +11,6 @@
     minute read</span>
 </p>
 {% endset %}
-
 {% block content %}
   <main id="main-content" tabindex="-1">
     <article class="[ post ] [ h-entry ]">
@@ -49,5 +47,4 @@
     </article>
   </main>
 {% endblock %}
-
 {{ content | safe }}
